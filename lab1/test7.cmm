@@ -1,0 +1,4 @@
+int mian()
+{
+    float i = 1.05e-4;
+}
